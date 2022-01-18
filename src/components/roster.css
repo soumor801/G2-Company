@@ -1,0 +1,40 @@
+.r {
+  display: flex;
+  flex-direction: column;
+}
+.r-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+}
+.r-left {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+.r-right {
+  flex: 3;
+  width: 60%;
+  text-align: left;
+  padding: 10px;
+  height: 100%;
+}
+.r-img {
+  height: 200px;
+}
+.r-bio {
+  font-size: 12px;
+  font-weight: 500;
+}
+.r-fullname {
+  font-size: x-large;
+}
+.r-title {
+  font-size: medium;
+}
+hr {
+  width: 100%;
+}

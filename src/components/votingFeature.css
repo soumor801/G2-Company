@@ -1,0 +1,11 @@
+.v-img {
+  height: 13px;
+  cursor: pointer;
+}
+span {
+  color: rgb(0, 122, 188);
+}
+.v-text {
+  font-size: 12px;
+  font-weight: 900;
+}
